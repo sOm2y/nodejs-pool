@@ -52,7 +52,7 @@
 "stl": {
       "funcFile": "./lib/coins/stl.js",
       "paymentFile": "./payment_systems/stl.js",
-      "sigDigits": 10000,
+      "sigDigits": 100,
       "name": "Stellitecoin",
       "mixIn": 6,
       "shortCode": "STL"
